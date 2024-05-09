@@ -2,7 +2,8 @@
 On branch main
 Your branch is based on 'origin/main', but the upstream is gone.
   (use "git branch --unset-upstream" to fixup)
-![image](https://github.com/leomanchic/git_lab/assets/68703956/608a94d1-a3e1-4da1-93e0-3af3e73515a8)
+![image](https://github.com/leomanchic/git_lab/assets/68703956/131176c3-9079-48e5-8cba-20f9ccec6f21)
+
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
