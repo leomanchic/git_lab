@@ -17,7 +17,7 @@ Date:   Tue Apr 16 11:59:12 2024 +0300
 On branch hotfix/typo-fix
 nothing to commit, working tree clean
 
-## I hope I succeeded" by Margaryta Pavlova
+## «I hope I succeeded» by Margaryta Pavlova
 ___
 ## Leo pulled, and added TEXT
 ___
