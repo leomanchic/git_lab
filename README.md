@@ -21,4 +21,4 @@ nothing to commit, working tree clean
 ___
 ## Leo pulled, and added TEXT
 ___
-## Артур, тут твое место
+## Aртур сделал свой ход
