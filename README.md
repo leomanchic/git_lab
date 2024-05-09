@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 On branch main
 Your branch is based on 'origin/main', but the upstream is gone.
   (use "git branch --unset-upstream" to fixup)
@@ -17,3 +18,6 @@ On branch hotfix/typo-fix
 nothing to commit, working tree clean
 
 "I hope I succeeded" by Margaryta Pavlova
+=======
+Leo pulled, and added TEXT
+>>>>>>> fa687a1 (Leo commit)
